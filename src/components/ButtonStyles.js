@@ -29,3 +29,4 @@ export const ButtonLabel = styled.label`
     font-size: 25px;
     color: white;
 `
+

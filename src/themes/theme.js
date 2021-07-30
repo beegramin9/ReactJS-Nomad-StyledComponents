@@ -4,4 +4,4 @@ const theme = {
     successColor: "#9c88ff"
 };
 
-export dafalut theme;
+export default theme;
